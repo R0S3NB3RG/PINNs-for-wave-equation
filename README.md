@@ -12,6 +12,9 @@ OR, you can copy the following code to 'wave equation.py':
 
 '''
 load = 'wave equation 0.pth'
+
+
+
 u = torch.load(load)
 '''
 
